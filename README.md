@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robynroby
+- 👋 Hi, I’m Robinson Mwaura
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Frontend development using React.
 - 📫 How to reach me is via email: robisonmwaura254@gmail.com
