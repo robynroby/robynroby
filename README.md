@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robinson Mwaura
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning Frontend development using React.
+- 👀 I’m enthusiastic  about software development
+- 🌱 I’m currently a Frontend developer using React.
 - 📫 How to reach me is via email: robinsonmwaura254@gmail.com
 
 <!---
