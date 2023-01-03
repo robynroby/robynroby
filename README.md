@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Robinson Mwaura
 - 👀 I’m enthusiastic  about software development
-<!-- - 🌱 I’m currently a Frontend developer using React. -->
 - 📫 How to reach me is via email: robinsonmwaura254@gmail.com
+- <!-- - 🌱 I’m currently a Frontend developer using React. -->
+
 
 <!---
 robynroby/robynroby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
