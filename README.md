@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robinson Mwaura
-- 👀 I’m enthusiastic  about software development
+- 👀 I’m a full-stack developer
 - 📫 How to reach me is via email: robinsonmwaura254@gmail.com
 - <!-- - 🌱 I’m currently a Frontend developer using React. -->
 
